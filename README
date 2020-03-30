@@ -1,0 +1,8 @@
+# Atlas diurnal patterns
+
+Determine if a timeseries has relevant 24h components
+Frequencies checked for: 24h, 12, 6h (they show left to right in the welch spectrum plot, 24h the lowest freq, within the red bands)
+
+TODOs:
+
+ - Check for weekly frequency (168h)
